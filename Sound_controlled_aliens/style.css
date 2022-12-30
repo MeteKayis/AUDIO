@@ -1,0 +1,45 @@
+
+ body
+ {
+    font-family: 'Pacifico', cursive;
+    background: rgb(0, 15, 112);
+ }
+
+ .header_div
+ {
+    background: rgba(175, 8, 52, 0.785);
+    color: rosybrown;
+ }
+
+ .header_div p 
+ {
+    font-family: 'Passions Conflict', cursive;
+    font-size: 64px;
+    font-weight: lighter;
+    letter-spacing: 3px;
+    color: rgba(140, 240, 39, 0.944);
+ }
+
+ .main_div button
+ {
+    font-family: 'Passions Conflict', cursive;
+    margin-top: 35px;
+    width: 150px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+ }
+
+ .creator
+ {
+    position: fixed;
+    color:crimson;
+    bottom: 0;
+    width: 100%;
+    font-size: 32px;
+    font-family: 'Staatliches', cursive;
+    background-color: chartreuse;
+    line-height: 2;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(42, 40, 44);
+ }
+ 
